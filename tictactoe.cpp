@@ -201,6 +201,7 @@ int main()
 int a[9]={0},i=0,x,w=0;
 build(); // initial
 print(); // build and print
+cout<<endl;
 while(1)
 {
     if(w%2==0)
